@@ -19,7 +19,7 @@ Performans Karşılaştırması
 - MLP ve Random Forest modelleri de yüksek başarı oranları elde etti.
 
 Makale
-Detaylı açıklamalar ve akademik değerlendirmeler için `makale.docx` dosyasını inceleyebilirsiniz. İsteğe bağlı olarak tarafınıza iletebilirim. İçerik açısından posteri inceleyebilirsiniz.
+Makaleyi şu an yayınlanma aşamasında olduğu için isteğe bağlı olarak tarafınıza iletebilirim. İçerik açısından posteri inceleyebilirsiniz.
 
 Gelecek Çalışmalar
 - Derin öğrenme mimarileriyle (CNN, LSTM) geliştirme
